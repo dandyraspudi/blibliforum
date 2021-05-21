@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+
+.next
+
+components/other/views/comments.tsx
